@@ -1,0 +1,57 @@
+.header{
+	min-height: 100px;
+	background-color: blue;
+}
+.wrapper1{
+	overflow: hidden;
+	/*border:10px solid black;*/
+}
+.blog{
+	float: left;
+	width: 49.9%;
+	min-height: 150px;
+	background-color: yellow;
+}
+.content{
+	float: right;
+	width: 49.9%;
+	min-height: 150px;
+	background-color: green;
+}
+.wrapper2{
+	overflow: hidden;
+}
+.single{
+	min-height: 200px;
+	width: 33%;
+	background-color: red;
+	border:2px solid blue;
+	float: left;
+
+}
+.wrapper3{
+	overflow: hidden;
+}
+.single2{
+	min-height: 250px;
+	/*background-color: green;*/
+	/*border:3px solid yellow;*/
+	width: 25%;
+	float: left;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.yellow{
+	background-color: yellow;
+}
+.orange{
+	background-color: orange;
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
